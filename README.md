@@ -18,8 +18,8 @@ Download the project's directory & run `index.html` in your favorite browser.
 
 
 ### Results:
-_Mobile: 99/100
-Desktop: 94/100_
+_Mobile: 99/100_
+_Desktop: 94/100_
 
 
 #### Rendering at 60 fps Omptimizations: 
