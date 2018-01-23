@@ -6,23 +6,23 @@
 Download the project's directory & run `index.html` in your favorite browser.
 
 ##### Speed wise Optimizations:
-1- optimized images. And resized _"pizzeria.jpg"_.
-2- add media type _“print”_.
+1- Optimized images. And resized _"pizzeria.jpg"_.
+2- Add media type _“print”_.
 3- Deleted unnecessary comments.
-4-inlined CSS.
-5-put JS inlined at the end of `pizza.html` file.
+4- inlined CSS.
 5- removed Google Fonts link.
 6- make JS scripts that don't modify DOM & CSSOM async.
-7-removed unnecessary CSS rules.
-8- Minified Everything.
+7- Removed some unnecessary CSS rules.
+8- Minified some files.
 
 
 ### Results:
 * _Mobile: 99/100_.
-* _Desktop: 94/100_.
+* _Desktop: 96/100_.
 
 #### Rendering at 60 fps Omptimizations: 
 - deleted `determineDx()` function.
 - Re-implemented `changePizzaSizes()` function.
 - plus a general enhancments to the code where possible.
 - removed `querySelector()` & `querySelectorAll()` to more faster functions.
+- reduced the burden of the script by moving some instructions out of loops.
