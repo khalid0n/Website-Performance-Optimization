@@ -16,6 +16,12 @@ Download the project's directory & run `index.html` in your favorite browser.
 7-removed unnecessary CSS rules.
 8- Minified Everything.
 
+
+### Results:
+_Mobile: 99/100
+Desktop: 94/100_
+
+
 #### Rendering at 60 fps Omptimizations: 
 - deleted `determineDx()` function.
 - Re-implemented `changePizzaSizes()` function.
