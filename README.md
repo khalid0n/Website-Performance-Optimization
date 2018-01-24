@@ -25,4 +25,7 @@ Download the project's directory & run `index.html` in your favorite browser.
 - Re-implemented `changePizzaSizes()` function.
 - plus a general enhancments to the code where possible.
 - removed `querySelector()` & `querySelectorAll()` to more faster functions.
-- reduced the burden of the script by moving some instructions out of loops.
+- reduced the burden of the script by moving some DOM queries & other variables out of loops.
+- reduced number of pizzas to be based on browser window resolution.
+- using `requestAnimationFrame()` to make JS run as early as possible in each frame.
+- using `will-change: transform` & `transform: translateZ(0)` to tell the browser to expect visual property.
