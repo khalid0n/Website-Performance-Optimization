@@ -249,14 +249,14 @@
                 }
             }
             window.addEventListener('scroll', function () {
-                window.requestAnimationFrame(updatePositions)
+                window.requestAnimationFrame(updatePositions);
             });
             document.addEventListener('DOMContentLoaded', function () {
                 var sHeight = window.screen.height;                         // retrieve screen height
                 var cols = 8;
                 var s = 256;
                 var rows = sHeight / s;                                     // num of pizza rows to display
-                var movingPizzas = document.getElementById("movingPizzas1") // moved outside so DOM is called once
+                var movingPizzas = document.getElementById("movingPizzas1"); // moved outside so DOM is called once
                 for (var i = 0, len = rows * cols; i < len; i++) {          // Enhancment to the loop
                     var elem = document.createElement('img');
                     elem.className = 'mover';
