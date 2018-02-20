@@ -1,4 +1,5 @@
 # Website Performance Optimization portfolio project
++ This project is part of [udacity's front-end developer nanodegree](https://udacity.com/course/front-end-web-developer-nanodegree--nd001).
 + The project's aim is to optimize performance of an already given web application. where I made the needed tweaks and enhancments for the code to achieve a high page speed using [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/).
 + Also making the web application run at 60 fps.
 
