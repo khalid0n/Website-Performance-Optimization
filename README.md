@@ -14,7 +14,7 @@ Download the project's directory & run `index.html` in your favorite browser.
 5- removed Google Fonts link.\
 6- make JS scripts that don't modify DOM & CSSOM async.\
 7- Removed some unnecessary CSS rules.\
-8- Minified some files.\
+8- Minified some files.
 
 
 ### Results:
