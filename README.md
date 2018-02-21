@@ -7,14 +7,14 @@
 Download the project's directory & run `index.html` in your favorite browser.
 
 ##### Speed wise Optimizations:
-1- Optimized images. And resized _"pizzeria.jpg"_.\ 
-2- Add media type _“print”_.\ 
-3- Deleted unnecessary comments.\ 
-4- inlined CSS.\ 
-5- removed Google Fonts link.\ 
-6- make JS scripts that don't modify DOM & CSSOM async.\ 
-7- Removed some unnecessary CSS rules.\ 
-8- Minified some files.\ 
+1- Optimized images. And resized _"pizzeria.jpg"_.\
+2- Add media type _“print”_.\
+3- Deleted unnecessary comments.\
+4- inlined CSS.\
+5- removed Google Fonts link.\
+6- make JS scripts that don't modify DOM & CSSOM async.\
+7- Removed some unnecessary CSS rules.\
+8- Minified some files.\
 
 
 ### Results:
