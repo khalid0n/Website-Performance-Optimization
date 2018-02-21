@@ -1,20 +1,20 @@
 # Website Performance Optimization portfolio project
 + This project is part of [udacity's front-end developer nanodegree](https://udacity.com/course/front-end-web-developer-nanodegree--nd001).
 + The project's aim is to optimize performance of an already given web application. where I made the needed tweaks and enhancments for the code to achieve a high page speed using [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/).
-+ Also making the web application run at 60 fps.
++ Also making the web application renders at 60 fps.
 
 #### How to:
 Download the project's directory & run `index.html` in your favorite browser.
 
 ##### Speed wise Optimizations:
-1- Optimized images. And resized _"pizzeria.jpg"_.
-2- Add media type _“print”_.
-3- Deleted unnecessary comments.
-4- inlined CSS.
-5- removed Google Fonts link.
-6- make JS scripts that don't modify DOM & CSSOM async.
-7- Removed some unnecessary CSS rules.
-8- Minified some files.
+1- Optimized images. And resized _"pizzeria.jpg"_.\ 
+2- Add media type _“print”_.\ 
+3- Deleted unnecessary comments.\ 
+4- inlined CSS.\ 
+5- removed Google Fonts link.\ 
+6- make JS scripts that don't modify DOM & CSSOM async.\ 
+7- Removed some unnecessary CSS rules.\ 
+8- Minified some files.\ 
 
 
 ### Results:
